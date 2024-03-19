@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# Project 2
 def lire_csv(nom_fichier):
     contacts = []
     with open(nom_fichier, 'r') as fichier:
